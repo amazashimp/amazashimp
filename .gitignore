@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.log
+*.pyc
+.vscode/
+__pycache__/
+.gitconfig
+.DS_Store
+node_modules/
+tmp/*
+!tmp/.gitkeep
